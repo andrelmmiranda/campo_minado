@@ -7,12 +7,12 @@ Campo Minado é um gênero de videogame de quebra-cabeça lógico geralmente jog
 Fazer o clone do repositório
 - Com https:
 ```
-https://github.com/andrelmmiranda/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t08.git
+https://github.com/andrelmmiranda/campo_minado.git
 ```
 
 - Com ssh:
 ```
-git@github.com:andrelmmiranda/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t08.git
+git@github.com:andrelmmiranda/campo_minado.git
 ```
 
 ## Como Jogar:
